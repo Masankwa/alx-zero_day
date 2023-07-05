@@ -1,1 +1,3 @@
-My first readme and i like
+<<<<<<< HEAD
+My first readme 
+=======
